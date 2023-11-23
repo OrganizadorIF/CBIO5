@@ -9,7 +9,7 @@ title: Atividades
 
 **30/11**
 : **FV**{: .label .label-green } Análise de Hormônios Vegetais
-  : <span class="fs-3">[Prazo: 23:55](){: .btn }</span> <span class="fs-3">[Valor: 2 pontos](){: .btn }</span>
+  : <span class="fs-3">[Prazo: 23:55 | Valor: 2 pontos](){: .btn }</span>
 : > Pesquisar e apresentar um estudo de caso sobre o papel de um hormônio vegetal específico (como auxinas, giberelinas, etc.) em um processo de crescimento ou resposta a estímulos ambientais.
 
 **01/12**
