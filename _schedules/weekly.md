@@ -90,22 +90,28 @@ schedule:
   - name: Quinta
     events:
       - name: Fisiologia Vegetal
-        start: 7:30 PM
-        end: 8:30 PM
-        inicio: '19:30'
-        fim: '20:30'
+        start: 7:00 PM
+        end: 8:00 PM
+        inicio: '19:00'
+        fim: '20:00'
         tipo: disciplina4
       - name: Fisiologia Vegetal
-        start: 8:30 PM
-        end: 9:30 PM
-        inicio: '20:30'
-        fim: '21:30'
+        start: 8:00 PM
+        end: 9:00 PM
+        inicio: '20:00'
+        fim: '21:00'
         tipo: disciplina4
-      - name: Teoria dos Grafos
-        start: 9:30 PM
-        end: 10:30 PM
-        inicio: '21:30'
-        fim: '22:30'
+      - name: Edu. Jovens e Adultos
+        start: 9:00 PM
+        end: 10:00 PM
+        inicio: '21:00'
+        fim: '22:00'
+        tipo: disciplina5
+      - name: Edu. Jovens e Adultos
+        start: 10:00 PM
+        end: 11:00 PM
+        inicio: '22:00'
+        fim: '23:00'
         tipo: disciplina5
   - name: Sexta
     events:
