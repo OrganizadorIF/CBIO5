@@ -1,6 +1,6 @@
 ---
 name: Helena Alves Soares Chini
-role: Coordenador
+role: Professor
 email: helena.chini@muz.ifsuldeminas.edu.br
 photo: avatar.jpg
 ---
