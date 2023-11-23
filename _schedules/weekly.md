@@ -115,22 +115,28 @@ schedule:
         tipo: disciplina5
   - name: Sexta
     events:
-      - name: Banco de Dados I
+      - name: Evolução
         start: 7:00 PM
         end: 8:00 PM
         inicio: '19:00'
         fim: '20:00'
-        tipo: disciplina5
-      - name: Banco de Dados I
+        tipo: disciplina3
+      - name: Zoologia de Vert. II
         start: 8:00 PM
         end: 9:00 PM
         inicio: '20:00'
         fim: '21:00'
-        tipo: disciplina5
-      - name: Banco de Dados I
+        tipo: disciplina6
+      - name: Zoologia de Vert. II
         start: 9:00 PM
         end: 10:00 PM
         inicio: '21:00'
         fim: '22:00'
-        tipo: disciplina5
+        tipo: disciplina6
+      - name: Zoologia de Vert. II
+        start: 10:00 PM
+        end: 11:00 PM
+        inicio: '22:00'
+        fim: '23:00'
+        tipo: disciplina6
 ---
