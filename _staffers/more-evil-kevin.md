@@ -1,9 +1,9 @@
 ---
-name: More Evil Kevin
-role: Teaching Assistant
-email: me@example.com
-website: https://kevinl.info
-photo: kevin.jpg
+name: Ana Carolina Resende Maia
+role: Professor
+email: ana.maia@muz.ifsuldeminas.edu.br
+photo: avatar.jpg
 ---
 
-I like teaching Computer Science!
+Evolução
+Zoologia de Vertebrados II
