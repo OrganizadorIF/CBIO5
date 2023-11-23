@@ -12,6 +12,7 @@ seo:
 <h2 align="center">Seja bem-vindo(a) ao site<span style='font-weight: bold;'> Organizador do IF</span>!</h2>
 
 <h1 align="center"> <span style='font-weight: bold;'>Sobre</span></h1>
+
 {:.no_toc}
 
 ## Tópicos
