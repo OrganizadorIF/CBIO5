@@ -56,3 +56,8 @@ summary {
     }
   }
 }
+
+.label-pink:not(g) {
+  color: $grey-dk-200;
+  background-color: $pink-000;
+}
