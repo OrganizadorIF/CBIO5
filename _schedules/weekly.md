@@ -22,19 +22,19 @@ schedule:
         end: 8:00 PM
         inicio: '19:00'
         fim: '20:00'
-        tipo: disciplina1
+        tipo: azul
       - name: Política Educacional
         start: 8:00 PM
         end: 9:00 PM
         inicio: '20:00'
         fim: '21:00'
-        tipo: disciplina1
+        tipo: azul
       - name: Política Educacional
         start: 9:00 PM
         end: 10:00 PM
         inicio: '21:00'
         fim: '22:00'
-        tipo: disciplina1
+        tipo: azul
   - name: Terça
     events:
       - name: Fisiologia Hum. e Comp. II
@@ -42,25 +42,25 @@ schedule:
         end: 8:00 PM
         inicio: '19:00'
         fim: '20:00'
-        tipo: disciplina2
+        tipo: amarelo
       - name: Fisiologia Hum. e Comp. II
         start: 8:00 PM
         end: 9:00 PM
         inicio: '20:00'
         fim: '21:00'
-        tipo: disciplina2
+        tipo: amarelo
       - name: Evolução
         start: 9:00 PM
         end: 10:00 PM
         inicio: '21:00'
         fim: '22:00'
-        tipo: disciplina3
+        tipo: rosa
       - name: Evolução
         start: 10:00 PM
         end: 11:00 PM
         inicio: '22:00'
         fim: '23:00'
-        tipo: disciplina3
+        tipo: rosa
   - name: Quarta
     events:
       - name: Fisiologia Hum. e Comp. II
@@ -68,25 +68,25 @@ schedule:
         end: 8:00 PM
         inicio: '19:00'
         fim: '20:00'
-        tipo: disciplina2
+        tipo: amarelo
       - name: Fisiologia Hum. e Comp. II
         start: 8:00 PM
         end: 9:00 PM
         inicio: '20:00'
         fim: '21:00'
-        tipo: disciplina2
+        tipo: amarelo
       - name: Fisiologia Vegetal
         start: 9:00 PM
         end: 10:00 PM
         inicio: '21:00'
         fim: '22:00'
-        tipo: disciplina4
+        tipo: verde
       - name: Fisiologia Vegetal
         start: 10:00 PM
         end: 11:00 PM
         inicio: '22:00'
         fim: '23:00'
-        tipo: disciplina4
+        tipo: verde
   - name: Quinta
     events:
       - name: Fisiologia Vegetal
@@ -94,25 +94,25 @@ schedule:
         end: 8:00 PM
         inicio: '19:00'
         fim: '20:00'
-        tipo: disciplina4
+        tipo: verde
       - name: Fisiologia Vegetal
         start: 8:00 PM
         end: 9:00 PM
         inicio: '20:00'
         fim: '21:00'
-        tipo: disciplina4
+        tipo: verde
       - name: Edu. Jovens e Adultos
         start: 9:00 PM
         end: 10:00 PM
         inicio: '21:00'
         fim: '22:00'
-        tipo: disciplina5
+        tipo: azul
       - name: Edu. Jovens e Adultos
         start: 10:00 PM
         end: 11:00 PM
         inicio: '22:00'
         fim: '23:00'
-        tipo: disciplina5
+        tipo: azul
   - name: Sexta
     events:
       - name: Evolução
@@ -120,23 +120,23 @@ schedule:
         end: 8:00 PM
         inicio: '19:00'
         fim: '20:00'
-        tipo: disciplina3
+        tipo: rosa
       - name: Zoologia de Vert. II
         start: 8:00 PM
         end: 9:00 PM
         inicio: '20:00'
         fim: '21:00'
-        tipo: disciplina6
+        tipo: vermelho
       - name: Zoologia de Vert. II
         start: 9:00 PM
         end: 10:00 PM
         inicio: '21:00'
         fim: '22:00'
-        tipo: disciplina6
+        tipo: vermelho
       - name: Zoologia de Vert. II
         start: 10:00 PM
         end: 11:00 PM
         inicio: '22:00'
         fim: '23:00'
-        tipo: disciplina6
+        tipo: vermelho
 ---
