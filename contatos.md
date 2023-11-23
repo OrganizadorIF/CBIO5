@@ -2,7 +2,7 @@
 layout: page
 title: Contatos
 description: Uma lista de todos os contatos relacionados ao curso.
-nav_order: 6
+nav_order: 5
 ---
 
 <h1 align="center"><span style='font-weight: bold;'>Contatos</span></h1>
