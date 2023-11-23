@@ -4,3 +4,4 @@ role: Coordenador
 email: karina.mattos@muz.ifsuldeminas.edu.br
 photo: avatar.jpg
 ---
+Coordenadoria
