@@ -13,7 +13,12 @@ title: Atividades
 : > Pesquisar e apresentar um estudo de caso sobre o papel de um hormônio vegetal específico (como auxinas, giberelinas, etc.) em um processo de crescimento ou resposta a estímulos ambientais.
 
 **05/12**
-: **FHCII**{: .label .label-pink } Lista de exercícios sobre Sistemas Sensoriais
+: **EV**{: .label .label-pink } Artigo Científico - Versão final
+  : <span class="fs-3">[**Prazo:** 23:59  |  **Valor:** 3 pontos](){: .btn }</span>
+: > Entrega da versão final do artigo científico realizado ao longo do período.
+
+**05/12**
+: **FHCII**{: .label .label-yellow } Lista de exercícios sobre Sistemas Sensoriais
   : <span class="fs-3">[**Prazo:** 23:59  |  **Valor:** 1 ponto](){: .btn }</span>
 : > Compare os sistemas sensoriais (visão, audição, olfato) em vertebrados terrestres e aquáticos, explicando suas adaptações ao ambiente.
 
