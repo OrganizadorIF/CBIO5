@@ -17,91 +17,85 @@ schedule:
   - name: Horários
   - name: Segunda
     events:
-      - name: Engenharia de Software I
+      - name: Política Educacional
         start: 7:00 PM
         end: 8:00 PM
         inicio: '19:00'
         fim: '20:00'
         tipo: disciplina1
-      - name: Engenharia de Software I
+      - name: Política Educacional
         start: 8:00 PM
         end: 9:00 PM
         inicio: '20:00'
         fim: '21:00'
         tipo: disciplina1
-      - name: Engenharia de Software I
+      - name: Política Educacional
         start: 9:00 PM
         end: 10:00 PM
         inicio: '21:00'
         fim: '22:00'
-        tipo: disciplina1
-      - name: Engenharia de Software I
-        start: 10:00 PM
-        end: 11:00 PM
-        inicio: '22:00'
-        fim: '23:00'
         tipo: disciplina1
   - name: Terça
     events:
-      - name: Arq. e Org. de Computadores
+      - name: Fisiologia Humana e Comp. II
         start: 7:00 PM
         end: 8:00 PM
         inicio: '19:00'
         fim: '20:00'
-        tipo: disciplina3
-      - name: Arq. e Org. de Computadores
+        tipo: disciplina2
+      - name: Fisiologia Humana e Comp. II
         start: 8:00 PM
         end: 9:00 PM
         inicio: '20:00'
         fim: '21:00'
-        tipo: disciplina3
-      - name: Linguagens de Programação II
+        tipo: disciplina2
+      - name: Evolução
         start: 9:00 PM
         end: 10:00 PM
         inicio: '21:00'
         fim: '22:00'
-        tipo: disciplina2
-      - name: Linguagens de Programação II
+        tipo: disciplina3
+      - name: Evolução
         start: 10:00 PM
         end: 11:00 PM
         inicio: '22:00'
         fim: '23:00'
-        tipo: disciplina2
+        tipo: disciplina3
   - name: Quarta
     events:
-      - name: Arq. e Org. de Computadores
+      - name: Fisiologia Humana e Comp. II
         start: 7:00 PM
         end: 8:00 PM
         inicio: '19:00'
         fim: '20:00'
-        tipo: disciplina3
-      - name: Arq. e Org. de Computadores
+        tipo: disciplina2
+      - name: Fisiologia Humana e Comp. II
         start: 8:00 PM
         end: 9:00 PM
         inicio: '20:00'
         fim: '21:00'
-        tipo: disciplina3
-      - name: Linguagens de Programação II
+        tipo: disciplina2
+      - name: Fisiologia Vegetal
         start: 9:00 PM
         end: 10:00 PM
         inicio: '21:00'
         fim: '22:00'
-        tipo: disciplina2
-      - name: Linguagens de Programação II
+        tipo: disciplina4
+      - name: Fisiologia Vegetal
         start: 10:00 PM
         end: 11:00 PM
         inicio: '22:00'
         fim: '23:00'
-        tipo: disciplina2
+        tipo: disciplina4
   - name: Quinta
     events:
-      - name: Teoria dos Grafos
+      - name: Fisiologia Vegetal
         start: 7:30 PM
         end: 8:30 PM
         inicio: '19:30'
         fim: '20:30'
         tipo: disciplina4
-      - name: Teoria dos Grafos
+      - name: Fisiologia Vegetal
         start: 8:30 PM
         end: 9:30 PM
         inicio: '20:30'
@@ -112,7 +106,7 @@ schedule:
         end: 10:30 PM
         inicio: '21:30'
         fim: '22:30'
-        tipo: disciplina4
+        tipo: disciplina5
   - name: Sexta
     events:
       - name: Banco de Dados I
