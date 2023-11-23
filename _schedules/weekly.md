@@ -22,19 +22,19 @@ schedule:
         end: 8:00 PM
         inicio: '19:00'
         fim: '20:00'
-        tipo: azul
+        tipo: roxo
       - name: Política Educacional
         start: 8:00 PM
         end: 9:00 PM
         inicio: '20:00'
         fim: '21:00'
-        tipo: azul
+        tipo: roxo
       - name: Política Educacional
         start: 9:00 PM
         end: 10:00 PM
         inicio: '21:00'
         fim: '22:00'
-        tipo: azul
+        tipo: roxo
   - name: Terça
     events:
       - name: Fisiologia Hum. e Comp. II
