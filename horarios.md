@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Schedule
+title: Horários
 description: The weekly event schedule.
+nav_order: 5
 ---
 
-# Weekly Schedule
+<h1 align="center"> <span style='font-weight: bold;'> Horários </span> </h1>
 
 {% for schedule in site.schedules %}
 {{ schedule }}
