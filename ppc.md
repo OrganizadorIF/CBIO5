@@ -5,4 +5,4 @@ description: Página voltada para a exibição do PPC do curso.
 nav_order: 7
 ---
 
-<iframe src="https://docs.google.com/gview?url=https://organizadorif.github.io/CBIO5/assets/pdfs/ppc.pdf&embedded=true" style="width:735px; height:830px;" frameborder="0">Carregando...</iframe>
+<iframe src="https://docs.google.com/gview?url=https://organizadorif.github.io/CBIO6/assets/pdfs/ppc.pdf&embedded=true" style="width:735px; height:830px;" frameborder="0">Carregando...</iframe>
