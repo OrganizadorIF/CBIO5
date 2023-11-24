@@ -34,7 +34,7 @@ schedule:
         end: 10:00 PM
         inicio: '21:00'
         fim: '22:00'
-        tipo: amarelo
+        tipo: ciano
       - name: Geologia e Paleontologia
         start: 10:00 PM
         end: 11:00 PM
@@ -86,13 +86,13 @@ schedule:
         end: 10:00 PM
         inicio: '21:00'
         fim: '22:00'
-        tipo: amarelo
+        tipo: ciano
       - name: Prática de Ensino I
         start: 10:00 PM
         end: 11:00 PM
         inicio: '22:00'
         fim: '23:00'
-        tipo: amarelo
+        tipo: ciano
   - name: Quinta
     events:
       - name: Geologia e Paleontologia
@@ -126,13 +126,13 @@ schedule:
         end: 8:00 PM
         inicio: '19:00'
         fim: '20:00'
-        tipo: rosa
+        tipo: laranja
       - name: Educação e Tecnologias
         start: 8:00 PM
         end: 9:00 PM
         inicio: '20:00'
         fim: '21:00'
-        tipo: vermelho
+        tipo: laranja
       - name: Física Aplic. a CB
         start: 9:00 PM
         end: 10:00 PM
