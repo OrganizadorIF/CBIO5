@@ -11,17 +11,17 @@ nav_order: 2
 
 <h2 style="color: black; margin-bottom: 20px;" align="center"><span style='font-weight: bold;'>Mapa Conceitual</span></h2>
 
-<img src="https://raw.githubusercontent.com/OrganizadorIF/COMP4/main/assets/images/mapabanco1.png" alt="Mapa Conceitual" style="width: 90%; margin-left: auto; margin-right: auto; display: block;">
+<img src="https://raw.githubusercontent.com/OrganizadorIF/CBIO6/main/assets/images/mapaparasitologia.png" alt="Mapa Conceitual" style="width: 80%; margin-left: auto; margin-right: auto; display: block;">
 
 <h2 style="color: black; margin-bottom: 20px;" align="center"><span style='font-weight: bold;'>Resumo</span></h2>
 
-<div style="text-align: justify; margin-bottom: 20px;">"Parasitologia" é a disciplina que estuda os parasitas e suas interações com os organismos hospedeiros. No curso de Ciências Biológicas, a Parasitologia foca na compreensão dos diversos parasitas que afetam seres humanos, animais e plantas. Explora-se a biologia, a diversidade, o ciclo de vida, os mecanismos de transmissão e as consequências das parasitoses nos hospedeiros. Além disso, a disciplina abrange aspectos epidemiológicos, estratégias de prevenção, diagnóstico e tratamento das doenças parasitárias, contribuindo para a compreensão da interação entre parasitas e seus hospedeiros no contexto biológico e epidemiológico.</div>
+<div style="text-align: justify; margin-bottom: 20px;">A disciplina de Parasitologia no curso de Ciências Biológicas aborda a classificação e diversidade de parasitas, suas interações com os hospedeiros e os mecanismos de transmissão de parasitoses humanas e veterinárias. Estuda-se o ciclo de vida dos parasitas, suas consequências patogênicas nos hospedeiros, respostas imunológicas, epidemiologia e estratégias de controle. Essa disciplina proporciona compreensão abrangente das relações entre parasitas e hospedeiros, sendo fundamental para o diagnóstico, tratamento e prevenção das doenças parasitárias.</div>
 
 <h2 style="color: black; margin-bottom: 20px;" align="center"><span style='font-weight: bold;'>Conceitos Importantes</span></h2>
 
-<h3 style="color: black; margin-bottom: 10px;" align="center"><span style='font-weight: bold;'><u>Modelo Entidade Relacionamento (MER)</u></span></h3>
+<h3 style="color: black; margin-bottom: 10px;" align="center"><span style='font-weight: bold;'><u>Classificação e Diversidade de Parasitas</u></span></h3>
 
-<div style="text-align: justify; margin-bottom: 10px;">O Modelo Entidade-Relacionamento (MER) é uma abordagem visual para representar e descrever o esquema de um banco de dados. Ele utiliza entidades para representar objetos do mundo real e seus atributos, além de relacionamentos para mostrar como essas entidades se conectam. Nesse modelo, entidades são representadas por retângulos e os relacionamentos entre elas são indicados por linhas, evidenciando a maneira como estão conectadas e como interagem. O MER é uma ferramenta fundamental no processo de projeto de banco de dados, pois facilita a compreensão e a organização das informações que serão armazenadas e gerenciadas pelo sistema.</div>
+<div style="text-align: justify; margin-bottom: 10px;">No âmbito da Parasitologia, o tópico 'Classificação e Diversidade de Parasitas' concentra-se na investigação e compreensão dos diferentes grupos de organismos parasitas que afetam seres humanos, animais e plantas. Nesse estudo, são exploradas as características únicas de protozoários, helmintos e artrópodes parasitas, analisando suas estruturas morfológicas, os diferentes ciclos de vida, como se transmitem entre hospedeiros, e como se adaptam aos diferentes ambientes. A compreensão dessas distinções é essencial para identificar, tratar e prevenir as doenças causadas por esses parasitas, além de ser fundamental para a pesquisa e o desenvolvimento de estratégias de controle eficazes.</div>
 
 <h3 style="color: black; margin-bottom: 10px;" align="center"><span style='font-weight: bold;'>Exemplo de MER</span></h3>
 
@@ -42,9 +42,6 @@ nav_order: 2
    - [Vídeo Aula 02 - Modelo Entidade Relacionamento](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=390275)
    - [Vídeo Aula 03 - Cardinalidade e Relacionamento](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=390302)
    - [Vídeo - Modelagem de Dados - Normalização e Anomalias - Conceitos](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=390317)
-   - [Vídeo - Modelagem de Dados - Normalização - Primeira Forma Normal](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=390318)
-   - [Vídeo - Modelagem de Dados - Normalização - Segunda Forma Norma](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=390319)
-   - [Vídeo - Modelagem de Dados - Normalização - Terceira Forma Norma](https://presencial.muz.ifsuldeminas.edu.br/mod/url/view.php?id=390320)
 
 **PDFs/Slides:**
    - [Arquivo - Aula 1.2 Fundamentos Modelagem - GERAL](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=390276)
@@ -62,8 +59,6 @@ nav_order: 2
 **Lista de Exercícios:**
   - [Atividade Prática - Modelagem Cozinheiro](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=390286)
   - [Atividade Prática - Modelagem Imobiliária](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=390295)
-  - [Atividade Prática - Modelagem Indústria de Móveis](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=390311)
-  - [Lista de Exercícios - Operadores](https://presencial.muz.ifsuldeminas.edu.br/mod/resource/view.php?id=390407)
 
 <h2 style="color: black;  margin-bottom: 20px;" align="center"><span style='font-weight: bold;'>Colab</span></h2>
 
