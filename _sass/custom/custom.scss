@@ -58,6 +58,15 @@ summary {
 }
 
 .label-pink:not(g) {
-  color: $grey-dk-200;
   background-color: $pink-000;
+}
+
+.label-cyan:not(g) {
+  color: $grey-dk-200;
+  background-color: $cyan-000;
+}
+
+.label-orange:not(g) {
+  color: $grey-dk-200;
+  background-color: $orange-000;
 }
