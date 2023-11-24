@@ -8,33 +8,38 @@ seo:
   name: Organizador do IF
 ---
 
-<h1 align="center"><span style='font-weight: bold;'>Olá!</span></h1>
-<h2 align="center">Seja bem-vindo(a) ao site<span style='font-weight: bold;'> Organizador do IF</span>!</h2>
+<img src="https://raw.githubusercontent.com/OrganizadorIF/COMP4/main/assets/images/ifmuzlogo.png" alt="Logo IF Muzambinho" style="width: 90%; margin-left: auto; margin-right: auto; display: block;">
 
-<h1 align="center"> <span style='font-weight: bold;'>Sobre</span></h1>
+<h1 align="center" style="margin-top: 25px;"><span style='font-weight: bold;'>Olá!</span></h1>
+<h2 align="center" style="margin-bottom: 50px;">Seja bem-vindo(a) ao site<span style='font-weight: bold;'> Organizador do IF</span>!</h2>
 
-{:.no_toc}
+<h2 align="center" style="margin-bottom: 20px; font-weight: bold;">Sobre</h2>
 
-## Tópicos
-{: .no_toc .text-delta }
+<div style="text-align: justify">O <b>Organizador do IF</b> se trata de um site destinado a facilitar a vida acadêmica dos alunos ao resumir as informações mais importantes em um só lugar. Aqui você será capaz de otimizar sua organização de estudo, já que terá um acesso mais prático e intuitivo às informações relacionadas ao seu curso. O princípio de funcionamento é que, para cada turma diferente, há uma versão única do Organizador, a qual contém as informações específicas de tal turma.</div>
 
-1. TOC
-{:toc}
+<div style="text-align: justify; margin-top: 20px;"><u>Para visualizar outra versão</u> do Organizador, basta clicar no <i>card</i> contendo o nome do seu curso e período. Ou <a href="https://organizadorif.github.io/">clique aqui</a> para ser redirecionado.</div>
 
----
+<h2 align="center" style="margin-bottom: 20px; font-weight: bold;">Seções</h2>
 
-## Projeto
+O site é dividido em seções diferentes:
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam ut porttitor leo a diam. Erat nam at lectus urna duis convallis convallis tellus id. Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Ultrices vitae auctor eu augue ut lectus arcu. Morbi tristique senectus et netus et malesuada. Turpis tincidunt id aliquet risus feugiat in ante. Consequat interdum varius sit amet mattis vulputate enim nulla. Felis eget nunc lobortis mattis aliquam. Eu non diam phasellus vestibulum lorem sed risus. A condimentum vitae sapien pellentesque habitant morbi tristique. Orci dapibus ultrices in iaculis nunc sed augue lacus viverra. Proin sagittis nisl rhoncus mattis rhoncus urna neque. Dictum varius duis at consectetur lorem donec massa sapien. Blandit cursus risus at ultrices mi tempus imperdiet. Laoreet sit amet cursus sit amet dictum sit amet justo. Felis eget nunc lobortis mattis aliquam faucibus. Nam aliquam sem et tortor consequat.
+- "**Notícias**" é voltada para divulgações de informações relacionadas ao período do curso em questão.
+- "**Disciplinas**" apresenta as informações mais importantes de cada disciplina do período.
+- "**Agenda**" informa ao usuário quais são as próximas provas e atividades.
+- "**Horários**" apresenta uma tabela contendo todos os horários semanais das disciplinas.
+- "**Contatos**" mostra as principais informações dos(as) coordenadores(as) e professores(as).
+- "**Calendário**" exibe o calendário acadêmico do IFSULDEMINAS - Câmpus Muzambinho.
+- "**PPC**" é destinada a apresentar o documento Projeto Pedagógico de Curso (PPC).
+- "**Feedback**" é reservada para o usuário relatar sua experiência com o site.
 
-## Seções
+<h2 align="center" style="margin-bottom: 20px; font-weight: bold;">Projeto</h2>
 
-Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla.
+<div style="text-align: justify">O <b>Organizador do IF</b> foi desenvolvido durante o <u>4º período</u> do curso "<b>Ciência da Computação</b>" como projeto da disciplina "<b>Educação Empreendedora e Inovação IV</b>", sendo baseado nos temas Jekyll "<a href="https://kevinl.info/just-the-class/">Just the Class</a>" e "<a href="https://just-the-docs.com/">Just the Docs</a>".</div>  
 
-## Liçença
+**Orientador:**  
+  - Paulo César dos Santos
 
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
-
-## Integrantes
-
-Vehicula ipsum a arcu cursus vitae congue. Etiam dignissim diam quis enim lobortis scelerisque fermentum dui. Risus sed vulputate odio ut enim blandit. Aliquam id diam maecenas ultricies mi eget. Id consectetur purus ut faucibus pulvinar elementum integer enim neque. Eget mi proin sed libero enim sed faucibus. Sem integer vitae justo eget magna fermentum iaculis. In mollis nunc sed id semper risus in. Sit amet risus nullam eget felis eget. Mattis ullamcorper velit sed ullamcorper morbi tincidunt ornare massa eget. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada. Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. At varius vel pharetra vel turpis nunc eget. Scelerisque purus semper eget duis at tellus.
+**Integrantes do grupo:**
+  - Erik Bolonha Abdala
+  - João Paulo Lúcio Aparecido
+  - Juan Grabriel Ozeas
