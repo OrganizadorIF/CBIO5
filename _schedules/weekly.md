@@ -17,126 +17,132 @@ schedule:
   - name: Horários
   - name: Segunda
     events:
-      - name: Política Educacional
+      - name: Embriologia
         start: 7:00 PM
         end: 8:00 PM
         inicio: '19:00'
         fim: '20:00'
-        tipo: roxo
-      - name: Política Educacional
+        tipo: amarelo
+      - name: Embriologia
         start: 8:00 PM
         end: 9:00 PM
         inicio: '20:00'
         fim: '21:00'
-        tipo: roxo
-      - name: Política Educacional
+        tipo: amarelo
+      - name: Prática de Ensino I
         start: 9:00 PM
         end: 10:00 PM
         inicio: '21:00'
         fim: '22:00'
-        tipo: roxo
+        tipo: amarelo
+      - name: Geologia e Paleontologia
+        start: 10:00 PM
+        end: 11:00 PM
+        inicio: '22:00'
+        fim: '23:00'
+        tipo: verde
   - name: Terça
     events:
-      - name: Fisiologia Hum. e Comp. II
+      - name: Orient. para Proj. Acad.
         start: 7:00 PM
         end: 8:00 PM
         inicio: '19:00'
         fim: '20:00'
-        tipo: amarelo
-      - name: Fisiologia Hum. e Comp. II
+        tipo: roxo
+      - name: Orient. para Proj. Acad.
         start: 8:00 PM
         end: 9:00 PM
         inicio: '20:00'
         fim: '21:00'
-        tipo: amarelo
-      - name: Evolução
+        tipo: roxo
+      - name: Parasitologia
         start: 9:00 PM
         end: 10:00 PM
         inicio: '21:00'
         fim: '22:00'
-        tipo: rosa
-      - name: Evolução
+        tipo: vermelho
+      - name: Parasitologia
         start: 10:00 PM
         end: 11:00 PM
         inicio: '22:00'
         fim: '23:00'
-        tipo: rosa
+        tipo: vermelho
   - name: Quarta
     events:
-      - name: Fisiologia Hum. e Comp. II
+      - name: Parasitologia
         start: 7:00 PM
         end: 8:00 PM
         inicio: '19:00'
         fim: '20:00'
-        tipo: amarelo
-      - name: Fisiologia Hum. e Comp. II
+        tipo: vermelho
+      - name: Parasitologia
         start: 8:00 PM
         end: 9:00 PM
         inicio: '20:00'
         fim: '21:00'
-        tipo: amarelo
-      - name: Fisiologia Vegetal
+        tipo: vermelho
+      - name: Prática de Ensino I
         start: 9:00 PM
         end: 10:00 PM
         inicio: '21:00'
         fim: '22:00'
-        tipo: verde
-      - name: Fisiologia Vegetal
+        tipo: amarelo
+      - name: Prática de Ensino I
         start: 10:00 PM
         end: 11:00 PM
         inicio: '22:00'
         fim: '23:00'
-        tipo: verde
+        tipo: amarelo
   - name: Quinta
     events:
-      - name: Fisiologia Vegetal
+      - name: Geologia e Paleontologia
         start: 7:00 PM
         end: 8:00 PM
         inicio: '19:00'
         fim: '20:00'
         tipo: verde
-      - name: Fisiologia Vegetal
+      - name: Geologia e Paleontologia
         start: 8:00 PM
         end: 9:00 PM
         inicio: '20:00'
         fim: '21:00'
         tipo: verde
-      - name: Edu. Jovens e Adultos
+      - name: Estatística Aplic. a CB
         start: 9:00 PM
         end: 10:00 PM
         inicio: '21:00'
         fim: '22:00'
-        tipo: azul
-      - name: Edu. Jovens e Adultos
+        tipo: rosa
+      - name: Estatística Aplic. a CB
         start: 10:00 PM
         end: 11:00 PM
         inicio: '22:00'
         fim: '23:00'
-        tipo: azul
+        tipo: rosa
   - name: Sexta
     events:
-      - name: Evolução
+      - name: Educação e Tecnologias
         start: 7:00 PM
         end: 8:00 PM
         inicio: '19:00'
         fim: '20:00'
         tipo: rosa
-      - name: Zoologia de Vert. II
+      - name: Educação e Tecnologias
         start: 8:00 PM
         end: 9:00 PM
         inicio: '20:00'
         fim: '21:00'
         tipo: vermelho
-      - name: Zoologia de Vert. II
+      - name: Física Aplic. a CB
         start: 9:00 PM
         end: 10:00 PM
         inicio: '21:00'
         fim: '22:00'
-        tipo: vermelho
-      - name: Zoologia de Vert. II
+        tipo: azul
+      - name: Física Aplic. a CB
         start: 10:00 PM
         end: 11:00 PM
         inicio: '22:00'
         fim: '23:00'
-        tipo: vermelho
+        tipo: azul
 ---
