@@ -17,7 +17,7 @@ title: Organizador do IF
 tagline: O organizador de estudos do IF!
 description: Facilite e otimize seus estudos com o novo organizador do IF!
 author: Erik Abdala
-baseurl: '/CBIO5' # the subpath of your site, e.g. /blog
+baseurl: '/CBIO6' # the subpath of your site, e.g. /blog
 url: 'https://organizadorif.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
